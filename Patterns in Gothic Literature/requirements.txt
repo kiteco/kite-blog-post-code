@@ -31,7 +31,7 @@ parso==0.3.1
 pickleshare==0.7.4
 prometheus-client==0.3.1
 prompt-toolkit==1.0.15
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.1
 python-dateutil==2.7.3
 pywinpty==0.5.4
